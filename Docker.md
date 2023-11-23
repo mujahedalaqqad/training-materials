@@ -8,7 +8,7 @@ a Container is a running instance of an image, You can manage your containers us
 
 Docker follows a client-server architecture. The docker client makes REST API calls to the docker daemon (backend), the docker daemon is responsible for building and running your applications.
 
-![1700746228518](image/Docker-Intro/1700746228518.png)
+![1700746228518](1700746228518.png)
 
 
 # Docker Registry
